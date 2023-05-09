@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Matttran7
-- 💞️ SQL Lover
 
 <!---
 Matttran7/Matttran7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
