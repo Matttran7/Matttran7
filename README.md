@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Matttran7
+- 👋 Hi, I’m @Matttran7 (Matthew Tran)
 
 <!---
 Matttran7/Matttran7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
