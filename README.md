@@ -1,6 +1,7 @@
 Hi, I’m @Matttran7 (Matthew Tran)
 
-I'm a 4th year computer science student (2020-2024) at the University of Portland wanting to get into software development. 
+I'm a 4th year computer science student (2020-2024) at the University of Portland wanting to get into software development.
+
 I am most proficient in Python, Java, C and SQL but am familiar in many others as well.
 
 <!---
