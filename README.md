@@ -1,5 +1,6 @@
 # 💫 About Me:
 I am a senior computer science student at the University of Portland super interested in<br>Data Engineering and Machine Learning. I love working on coding projects with friends and<br>am currently working on a project to replicate the animal decision making process and a<br>project to expand the versatility of large language models.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mtran7/) 
 
 # 💻 Tech Stack:
