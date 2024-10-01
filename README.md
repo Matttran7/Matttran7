@@ -1,9 +1,8 @@
 # 🙋‍♂️ About Me:
-B.S Computer Science from University of Portland super interested in Data Engineering and Machine Learning.
+B.S Computer Science from University of Portland.
 <br>
 <br>
-I love working on coding projects with friends.
-Currently developing a platform for the centralization and collaboration of innovation!
+coding with friends!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mtran7/) 
 
