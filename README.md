@@ -2,7 +2,8 @@
 B.S Computer Science from University of Portland.
 <br>
 <br>
-coding with friends!
+I love coding with friends!
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mtran7/) 
 
