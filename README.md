@@ -1,8 +1,6 @@
 # 🙋‍♂️ About Me:
-B.S Computer Science from University of Portland.
 <br>
-<br>
-I love coding with friends!
+https://matttran7.github.io/
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mtran7/) 
